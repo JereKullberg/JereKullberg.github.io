@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    color: #1300ff;
+    color: #ffffff;
     font-size: 14px;
     line-height: 1.80857;
     font-weight: normal;
@@ -158,9 +158,9 @@ a,
 }
 
 img {
-    max-width: 100%;
+    max-width: 300%;
     height: auto;
-    border-radius: 20px;
+    border-radius: 300px;
 }
 
  :focus {
@@ -319,7 +319,7 @@ button {
 }
 
 .menu_main li a {
-    color: #ffffff;
+    color: #0839ff;
     padding: 10px 20px;
     border-radius: 10px;
 }
@@ -370,7 +370,7 @@ button {
     width: 63%;
     margin: 0 auto;
     font-size: 16px;
-    color: #ffffff;
+    color: #0c00ff;
     text-align: center;
 }
 
@@ -491,9 +491,9 @@ button {
 }
 
 .about_taital {
-    width: 100%;
+    width: 600%;
     float: left;
-    font-size: 40px;
+    font-size: 160px;
     color: #1f1f1f;
     font-weight: bold;
 }
@@ -639,7 +639,7 @@ button {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #0216ff;
     box-shadow: 0px 1px 16px -6px;
     border-radius: 30px;
     padding: 50px 70px;
@@ -663,8 +663,8 @@ button {
 }
 
 .lorem_text {
-    width: 100%;
-    font-size: 16px;
+    width: 300;
+    font-size: 32px;
     text-align: center;
     margin: 0px;
     color: #0d0d0d;
@@ -744,8 +744,8 @@ button {
 }
 
 .choose_taital {
-    width: 100%;
-    font-size: 40px;
+    width: 300%;
+    font-size: 120px;
     color: #1f1f1f;
     font-weight: bold;
     text-align: center;
@@ -919,7 +919,7 @@ button {
     float: left;
     font-size: 18px;
     color: #2b2c2c;
-    background-color: #ffffff;
+    background-color: rgb(0 0 0 / 90%);
     height: auto;
     padding: 5px 20px;
     border-radius: 20px;
