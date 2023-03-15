@@ -360,7 +360,7 @@ button {
     float: left;
     font-size: 80px;
     color: #23ff00;
-    font-weight: bold;
+    font: Arial;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Righteous', Regular;
@@ -413,9 +413,9 @@ button {
 .services_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 20PX;
     color: #00ffdf;
-    font-weight: bold;
+    font-weight: BOLDER;
 }
 
 .services_text {
@@ -491,9 +491,9 @@ button {
 }
 
 .about_taital {
-    width: 600%;
+    width: 450X;
     float: left;
-    font-size: 160px;
+    font-size: 140PX;
     color: #1f1f1f;
     font-weight: bold;
 }
